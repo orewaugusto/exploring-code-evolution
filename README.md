@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/expressjs/express
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: JavaScript files
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: o gráfico ostra a evolução da quantidade de arquivos JavaScript no repositório do Express, um dos frameworks mais utilizados para aplicações web em Node.js. Observando a curva, nota-se que entre os anos de 2020 e 2025 a quantidade de arquivos se manteve praticamente estável, sempre em torno de 150 a 155 arquivos. Isso indica que o projeto vinha sendo mantido de forma madura e consistente, sem grandes expansões ou inchaços desnecessários no código. Essa estabilidade é, inclusive, um bom sinal: mostra que a equipe do Express tem seguido boas práticas de modularização e manutenção. No entanto, em 2025 houve uma queda mais acentuada, reduzindo o número de arquivos para cerca de 140. Existem algumas hipóteses para essa queda: pode ter havido uma limpeza de código legado, uma reorganização dos módulos internos para torná-los mais concisos, ou até uma migração parcial para TypeScript, algo que vem se tornando comum em muitos projetos open source nos últimos anos. Outra possibilidade é que algumas funcionalidades menos essenciais tenham sido extraídas do núcleo do Express e movidas para bibliotecas separadas. De qualquer forma, essa queda não representa um problema, e sim uma provável ação de refatoração bem pensada. 
 
 
 
